@@ -1,0 +1,5 @@
+package memoryallocation
+
+func main() {
+
+}
